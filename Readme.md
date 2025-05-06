@@ -22,9 +22,4 @@ Hi 👋 I am Bintanggggg, Welcome to my Profile
 
 ---
 
-### STATS:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bintangbr&show_icons=true&theme=radical)
-
-
 
